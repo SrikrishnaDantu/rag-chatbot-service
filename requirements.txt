@@ -1,0 +1,10 @@
+
+langchain>=0.0.187
+openai>=0.27.6
+langchain-community>=0.1.0
+unstructured>=0.6.6
+detectron2 @ git+https://github.com/facebookresearch/detectron2.git@v0.6#egg=detectron2
+poppler-utils  # No pip package; must be installed manually via apt or brew
+langchain-pinecone>=0.0.3
+pinecone-client>=2.2.2
+tiktoken>=0.4.0
